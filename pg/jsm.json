@@ -2,8 +2,8 @@
 	"spider":"http://tgysbox.eu.org/pg/pg.jar",
 	"sites":[
 		{
-			"key": "豆瓣┃🔔更新日期240508",
-			"name": "豆瓣",
+			"key": "豆瓣",
+			"name": "豆瓣┃🔔更新日期240508",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
