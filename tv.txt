@@ -21,6 +21,7 @@ cctv13,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid
 山东卫视,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=3
 北京卫视,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=3
 cctv,rtp://239.3.1.60:8084
+承认,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 央视,#genre#
 CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
