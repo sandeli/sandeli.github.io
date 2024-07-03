@@ -32,6 +32,30 @@ cctv10,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid
 cctv11,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3
 cctv12,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=3
 cctv13,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
+鳳凰衛視PhoenixTV,http://192.168.0.35:5050/youtube/HFib76ySpbU
+華視新聞 CH52,http://192.168.0.35:5050/youtube/wM0g8EoUZ_E
+TVBS NEWS,http://192.168.0.35:5050/youtube/2mCSYvcfhtc
+TVBS NEWS,http://192.168.0.35:5050/youtube/m_dhMSvUCIc
+三立LIVE新聞,http://192.168.0.35:5050/youtube/oZdzzvxTfUY
+三立LIVE新聞,http://192.168.0.35:5050/youtube/FoBfXvlOR6I
+三立iNEWS,http://192.168.0.35:5050/youtube/CKjSm5ZeehE
+鏡新聞,http://192.168.0.35:5050/youtube/5n0y6b0Q25o
+台視新聞 TTV NEWS,http://192.168.0.35:5050/youtube/xL0ch83RAK8
+中視新聞,http://192.168.0.35:5050/youtube/TCnaIE_SAtM
+中天電視,http://192.168.0.35:5050/youtube/oIgbl7t0S_w
+中天2台,http://192.168.0.35:5050/youtube/WPfPjbOLNfE
+中天亞洲台,http://192.168.0.35:5050/youtube/s2waUruqze4
+公視新聞網,http://192.168.0.35:5050/youtube/quwqlazU-c8
+東森新聞 CH51,http://192.168.0.35:5050/youtube/E0zhe2gkXBs
+57東森財經新聞,http://192.168.0.35:5050/youtube/WHEPzbFA3hw
+寰宇新聞 頻道,http://192.168.0.35:5050/youtube/6IquAgfvYmc
+民視新聞網,http://192.168.0.35:5050/youtube/ylYJSBUgaMA
+中視經典綜藝,http://192.168.0.35:5050/youtube/ADDSmXoPDY8
+TaiwanPlus Livestream,http://192.168.0.35:5050/youtube/Smy2zVGK9x0
+TBS NEWS DIG Powered by JNN,http://192.168.0.35:5050/youtube/ohI356mwBp8
+ANNnewsCH,http://192.168.0.35:5050/youtube/coYw-eVU0Ks
+LIVE NOW,http://192.168.0.35:5050/youtube/twhG7_jvA8g
+
 卫视测试,#genre#
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
